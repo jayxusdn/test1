@@ -7,5 +7,6 @@ public class MainTest {
         System.out.println("final version");
         System.out.println("it's hot-fix version");
         System.out.println("it's master version");
+        System.out.println("it's hot-fix version1");
     }
 }
