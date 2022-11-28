@@ -5,5 +5,6 @@ public class MainTest {
         System.out.println("it's first version");
         System.out.println("second commit");
         System.out.println("final version");
+        System.out.println("it's hot-fix version");
     }
 }
